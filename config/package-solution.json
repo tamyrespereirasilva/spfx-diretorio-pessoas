@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "diretorio-de-pessoas-client-side-solution",
+    "id": "367e4ab3-4bb4-400b-9eaa-4f94e59f13f6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.19.0"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "diretorio_de_pessoas description"
+      },
+      "longDescription": {
+        "default": "diretorio_de_pessoas description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "diretorio-de-pessoas Feature",
+        "description": "The feature that activates elements of the diretorio-de-pessoas solution.",
+        "id": "644ddfcd-e380-4143-ac78-100b6a315330",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/diretorio-de-pessoas.sppkg"
+  }
+}
